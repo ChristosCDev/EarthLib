@@ -1,0 +1,4 @@
+name: EarthLib
+version: '1.0-SNAPSHOT'
+main: de.Christos.EarthLib
+api-version: '1.20'
